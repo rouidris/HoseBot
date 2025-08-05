@@ -1,0 +1,7 @@
+aiogram==2.25.2
+aiohttp==3.8.6
+pandas==2.2.3
+reportlab==4.2.0
+python-barcode==0.15.1
+PyPDF2==3.0.1
+Pillow==9.4.0
